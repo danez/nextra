@@ -36,7 +36,7 @@ importers:
       eslint-plugin-typescript-sort-keys: 2.3.0
       eslint-plugin-unicorn: 46.0.0
       prettier: 2.8.7
-      prettier-plugin-tailwindcss: 0.2.5
+      prettier-plugin-tailwindcss: 0.2.6
       rimraf: 4.4.1
       tsup: 6.7.0
       turbo: 1.8.6
@@ -56,7 +56,7 @@ importers:
       eslint-plugin-typescript-sort-keys: 2.3.0_s5k7qbmvzkal3edwy7gcxmnteu
       eslint-plugin-unicorn: 46.0.0_eslint@8.37.0
       prettier: 2.8.7
-      prettier-plugin-tailwindcss: 0.2.5_prettier@2.8.7
+      prettier-plugin-tailwindcss: 0.2.6_prettier@2.8.7
       rimraf: 4.4.1
       tsup: 6.7.0_typescript@5.0.2
       turbo: 1.8.6
@@ -6435,8 +6435,8 @@ packages:
     engines: {node: '>= 0.8.0'}
     dev: true
 
-  /prettier-plugin-tailwindcss/0.2.5_prettier@2.8.7:
-    resolution: {integrity: sha512-vZ/iKieyCx0WTxHbkf5E1rBlv/ybFk8WTT4hL5W2jlVxum2Zbe0jMUpuQdDrpa4z2vnPiJ5KIWCqL/kd16fKYg==}
+  /prettier-plugin-tailwindcss/0.2.6_prettier@2.8.7:
+    resolution: {integrity: sha512-F+7XCl9RLF/LPrGdUMHWpsT6TM31JraonAUyE6eBmpqymFvDwyl0ETHsKFHP1NG+sEfv8bmKqnTxEbWQbHPlBA==}
     engines: {node: '>=12.17.0'}
     peerDependencies:
       '@ianvs/prettier-plugin-sort-imports': '*'
